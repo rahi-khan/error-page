@@ -20,25 +20,15 @@
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
+<br>
 
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-
-<!-- OVERVIEW -->
-
-## Overview
-
-<p align="center">
+<div align="center">
 <img src="https://live.staticflickr.com/65535/50800126707_2a1298082d_z.jpg" alt="screenshot" align="center"/>
-</p>
+</div>
 
-### Built With
+<br>
+
+## Built With
 
 -   [Gatsby](https://www.gatsbyjs.com/)
 -   [React](https://reactjs.org/)
