@@ -1,6 +1,7 @@
 module.exports = {
     siteMetadata: {
         title: "Error Page",
+        siteUrl: `https://error-page-69.netlify.app/`,
     },
     plugins: [
         "gatsby-plugin-sass",
