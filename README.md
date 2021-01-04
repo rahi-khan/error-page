@@ -34,7 +34,9 @@
 
 ## Overview
 
-![screenshot](https://live.staticflickr.com/65535/50800126707_2a1298082d_z.jpg)
+<p align="center">
+<img src="https://live.staticflickr.com/65535/50800126707_2a1298082d_z.jpg" alt="screenshot" align="center"/>
+</p>
 
 ### Built With
 
