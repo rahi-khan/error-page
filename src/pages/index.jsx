@@ -13,6 +13,19 @@ const NotFound = () => (
             <title>Error Page</title>
             <meta name="description" content="Error Page" />
             <meta name="description" content="Solution for a challenge from Devchallenges.io" />
+            <meta name="title" property="og:title" content="Error Page" />
+            <meta property="og:type" content="Website" />
+            <meta
+                name="image"
+                property="og:image"
+                content="https://live.staticflickr.com/65535/50800126707_2a1298082d_z.jpg"
+            />
+            <meta
+                name="description"
+                property="og:description"
+                content="Solution for a challenge from Devchallenges.io"
+            />
+            <meta name="author" content="Rahi Khan" />
         </Helmet>
 
         <Container
