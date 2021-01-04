@@ -1,48 +1,57 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby minimal starter
-</h1>
+<h1 align="center">Error Page</h1>
 
-## 🚀 Quick start
+<div align="center">
+   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+</div>
 
-1.  **Create a Gatsby site.**
+<div align="center">
+  <h3>
+    <a href="https://{your-demo-link.your-domain}">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://{your-url-to-the-solution}">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+      Challenge
+    </a>
+  </h3>
+</div>
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+<!-- TABLE OF CONTENTS -->
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
+## Table of Contents
 
-2.  **Start developing.**
+- [Table of Contents](#table-of-contents)
+- [Overview](#overview)
+  - [Built With](#built-with)
+- [Features](#features)
+- [Contact](#contact)
 
-    Navigate into your new site’s directory and start it up.
+<!-- OVERVIEW -->
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
+## Overview
 
-3.  **Open the code and start customizing!**
+![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
-    Your site is now running at http://localhost:8000!
+### Built With
 
-    Edit `src/pages/index.js` to see your site update in real-time!
+-   [Gatsby](https://www.gatsbyjs.com/)
+-   [React](https://reactjs.org/)
+-   [Bootstrap](https://getbootstrap.com/)
 
-4.  **Learn more**
+## Features
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+-   [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
+-   [Node.js](https://nodejs.org/)
+-   [Marked - a markdown parser](https://github.com/chjj/marked)
 
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+## Contact
 
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+-   GitHub: [rahi-khan](https://github.com/rahi-khan)
+-   LinkedIn: [Rahi Khan](https://www.linkedin.com/in/rahikhan/)
+-   Twitter [@rahikhan_dev](https://twitter.com/rahikhan_dev)
